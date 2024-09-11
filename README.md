@@ -1,6 +1,16 @@
 # 💫 About Me:
 🔭 Sharing about my journey and learnings in tech<br>🎓 Electrical and Electronics Enginnering student at the Middle East Technical Universty<br>🌱 I’m currently learning C++ and VHDL<br><br>
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| C++       |
+
+
+</details>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_erdem_ates) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erdemates0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@erdemates4687) 
